@@ -16,16 +16,7 @@ CloneTube is a simple UI clone of YouTube built using HTML and CSS. This project
 - **HTML**: For structuring the webpage.
 - **CSS**: Used for styling and layout design.
 
-## Installation & Setup
-
-1. **Clone the repository**:
-        https://star-lad.github.io/CloneTube-Project/
-   
-Navigate to the project folder:
-
-         cd CloneTube-Project
-
-Folder Structure
+## Folder Structure
       
       CloneTube-Project/
       │── images/                # Contains icons and thumbnails
@@ -36,20 +27,16 @@ Folder Structure
       │   ├── side-bar.css       # Sidebar styling (navigation elements, hover effects, fixed position)
       │── clonetube.html         # Main HTML file
       
-Future Improvements
-
-      Implement JavaScript for interactive features like video playback, like/dislike buttons, and dynamic content.
-      Enhance mobile responsiveness for a better experience on tablets and phones.
-      Add a backend to support user authentication, video uploads, and personalized content.
-      Improve the UI with animations and transitions for a smoother user experience.
-      Include a dark mode option for a better visual experience.
+## Future Improvements
+ 
+ 1.Implement JavaScript for interactive features like video playback, like/dislike buttons, and dynamic content.
+ 2.Enhance mobile responsiveness for a better experience on tablets and phones.
+ 3.Add a backend to support user authentication, video uploads, and personalized content.
+ 4.Improve the UI with animations and transitions for a smoother user experience.
+ 5.Include a dark mode option for a better visual experience.
       
-Contributing
+## Contributing
       Feel free to fork this repository and submit pull requests with improvements! If you have any suggestions or want to contribute to future enhancements, don't hesitate to reach out.
-
-License
-      This project is open-source and available under the MIT License. You are free to use, modify, and distribute the code as you see fit.
-
 
 
 
