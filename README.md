@@ -29,14 +29,18 @@ CloneTube is a simple UI clone of YouTube built using HTML and CSS. This project
       
 ## Future Improvements
  
- 1.Implement JavaScript for interactive features like video playback, like/dislike buttons, and dynamic content.
+ 1.Implement JavaScript for interactive features like video playback, like/dislike buttons, and dynamic content. 
+ 
  2.Enhance mobile responsiveness for a better experience on tablets and phones.
+ 
  3.Add a backend to support user authentication, video uploads, and personalized content.
+ 
  4.Improve the UI with animations and transitions for a smoother user experience.
+ 
  5.Include a dark mode option for a better visual experience.
       
 ## Contributing
-      Feel free to fork this repository and submit pull requests with improvements! If you have any suggestions or want to contribute to future enhancements, don't hesitate to reach out.
+   Feel free to fork this repository and submit pull requests with improvements! If you have any suggestions or want to contribute to future enhancements, don't hesitate to reach out.
 
 
 
