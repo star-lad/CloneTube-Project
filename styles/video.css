@@ -1,0 +1,71 @@
+.tmb {
+  width: 365px;
+  height: 225px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+.title {
+  display:inline-block;
+  width:300px;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 0;
+  line-height: 22px;
+  color: rgb(15, 15, 15);
+}
+.prev {
+  margin-right: 5px;
+  vertical-align: top;
+  display: flex;
+  flex-direction: column;
+  width: 100%; 
+  max-width: 365px;
+}
+
+.pfp1 {
+  width: 100%;
+  border-radius: 25px;
+}
+.pic {
+  margin-right: 5px;
+}
+.tmb-row {
+  margin-bottom:12px;
+  position: relative; 
+  display: inline-block;
+}
+
+.v-time {
+  position: absolute;
+  bottom: 8px; 
+  right: 8px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 2px ;
+  font-size: 12.5px;
+  border-radius: 4px;
+  font-weight:350;
+}
+
+.channel {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 1px;
+}
+.stats {
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(96, 96, 96);
+}
+.grid {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+.overall-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  
+  column-gap:5px;
+  row-gap: 30px;
+  position:static;
+}
