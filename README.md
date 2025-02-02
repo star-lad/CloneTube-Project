@@ -37,6 +37,7 @@ Folder Structure
       │── clonetube.html         # Main HTML file
       
 Future Improvements
+
       Implement JavaScript for interactive features like video playback, like/dislike buttons, and dynamic content.
       Enhance mobile responsiveness for a better experience on tablets and phones.
       Add a backend to support user authentication, video uploads, and personalized content.
