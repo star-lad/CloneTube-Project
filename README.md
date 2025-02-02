@@ -19,8 +19,8 @@ CloneTube is a simple UI clone of YouTube built using HTML and CSS. This project
 ## Installation & Setup
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/star-lad/CloneTube-Project.git
+        https://star-lad.github.io/CloneTube-Project/
+   
 Navigate to the project folder:
 
          cd CloneTube-Project
