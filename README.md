@@ -23,43 +23,31 @@ CloneTube is a simple UI clone of YouTube built using HTML and CSS. This project
    git clone https://github.com/star-lad/CloneTube-Project.git
 Navigate to the project folder:
 
-bash
-Copy
-Edit
-cd CloneTube-Project
-Open clonetube.html in your browser to view the project.
+         cd CloneTube-Project
 
 Folder Structure
-plaintext
-Copy
-Edit
-CloneTube-Project/
-│── images/                # Contains icons and thumbnails
-│── styles/
-│   ├── general.css        # General styling (fonts, body, and spacing)
-│   ├── header.css         # Header styling (navigation bar, search, tooltips, user menu)
-│   ├── video.css          # Video section styling (thumbnails, grid layout, video details, timestamps)
-│   ├── side-bar.css       # Sidebar styling (navigation elements, hover effects, fixed position)
-│── clonetube.html         # Main HTML file
+      
+      CloneTube-Project/
+      │── images/                # Contains icons and thumbnails
+      │── styles/
+      │   ├── general.css        # General styling (fonts, body, and spacing)
+      │   ├── header.css         # Header styling (navigation bar, search, tooltips, user menu)
+      │   ├── video.css          # Video section styling (thumbnails, grid layout, video details, timestamps)
+      │   ├── side-bar.css       # Sidebar styling (navigation elements, hover effects, fixed position)
+      │── clonetube.html         # Main HTML file
+      
 Future Improvements
-Implement JavaScript for interactive features like video playback, like/dislike buttons, and dynamic content.
-Enhance mobile responsiveness for a better experience on tablets and phones.
-Add a backend to support user authentication, video uploads, and personalized content.
-Improve the UI with animations and transitions for a smoother user experience.
-Include a dark mode option for a better visual experience.
+      Implement JavaScript for interactive features like video playback, like/dislike buttons, and dynamic content.
+      Enhance mobile responsiveness for a better experience on tablets and phones.
+      Add a backend to support user authentication, video uploads, and personalized content.
+      Improve the UI with animations and transitions for a smoother user experience.
+      Include a dark mode option for a better visual experience.
+      
 Contributing
-Feel free to fork this repository and submit pull requests with improvements! If you have any suggestions or want to contribute to future enhancements, don't hesitate to reach out.
+      Feel free to fork this repository and submit pull requests with improvements! If you have any suggestions or want to contribute to future enhancements, don't hesitate to reach out.
 
 License
-This project is open-source and available under the MIT License. You are free to use, modify, and distribute the code as you see fit.
-
-sql
-Copy
-Edit
-
-Now you can simply copy all of this and paste it into a `README.md` file in your project.
-
-
+      This project is open-source and available under the MIT License. You are free to use, modify, and distribute the code as you see fit.
 
 
 
